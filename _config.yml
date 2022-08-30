@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+title: 👾👾👾
+description: Cloud of competences 
+markdown: CommonMarkGhPages 
+commonmark:
+  options: ["UNSAFE"]
+logo: /tags.png
+google_analytics: 
