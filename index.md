@@ -52,9 +52,10 @@ Management of the team responsible for the server-side components of the navigat
 </i>
  <br>
  <br>
- <p>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/28R7JjUjjGY?start=2560" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </p>
+ <div class="video-container">
+ <iframe src="https://www.youtube.com/embed/28R7JjUjjGY?start=2560" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+ </div>
+
 </details>
 <br>
 
@@ -76,8 +77,8 @@ Training translation models and development of data pipelines
  </i>
  <br>
  <br>
- <p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <p class="video-container">
+  <iframe src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
  </p>
  <i>
  <br>
@@ -88,8 +89,8 @@ Training translation models and development of data pipelines
  </i>
  <br>
  <br>
- <p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/HupI6xOvWkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <p class="video-container">
+  <iframe src="https://www.youtube.com/embed/HupI6xOvWkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
  </p>
 </details>
 <br>
@@ -113,8 +114,8 @@ Server-side development of real time analytical service for mobile applications
  </i>
  <br>
  <br>
- <p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <p class="video-container">
+  <iframe src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
  </p>
 </details>
 <br>
@@ -138,15 +139,15 @@ Here is the marketing demonstration of this tool:
  </i>
  <br>
  <br>
- <p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <p class="video-container">
+  <iframe src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
  </p>
 </details>
 
 <br>
 
 ## 🎓 Education
-**Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
+**Master Program in CS and DA** @ [Yandex Data School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
 * Theory of computation
 * Machine learning
 * Data processing in external memory
@@ -154,7 +155,7 @@ Here is the marketing demonstration of this tool:
 
 <br>
 
-**Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
+**Master Degree in Computer Engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
 * Software development and databases
 * Сomputer architecture and microelectronics
 * Tools: C/C++03, MySQL, PHP, AutoCAD
