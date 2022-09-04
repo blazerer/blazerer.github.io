@@ -2,12 +2,12 @@
 
 _Software engineer based in London, United Kingdom_ <br>
 
-[Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer) / [PDF](RomanPeshkurov.pdf) 
+[Telegram](https://t.me/blazerer) / [Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer) / [PDF](RomanPeshkurov.pdf) 
 
 <br>
 
 ## 💾 Technical Experience
-**SDE** @ Wintermute _(May 2022 - ...)_ <br>
+**SDE** @ [Wintermute Trading Ltd](https://www.wintermute.com/) _(May 2022 - ...)_ <br>
 Development of server components in HFT company
 <details align="justify">
  <summary>Details</summary>
@@ -187,14 +187,14 @@ Here is the marketing demonstration of this tool:
 <br>
 
 ## 🎸 Outside Of Work
+* [TG channel](https://t.me/imposter_and_ocd) for thoughts
 * [Habr](https://habr.com/ru/users/MrBlazerer/posts/) with rare posts
-* [TG channel](https://t.me/imposter_and_ocd) for some thoughts
 * [Blog](https://vk.com/blazerer_about_music) about music gigs
-* Development of [tg-bot](https://t.me/MusicPracticeBot) for learning CAGED on guitar
+* Development of [tg-bot](https://t.me/MusicPracticeBot) for learning of CAGED-system on guitar
 * Maintaining [tg sticker pack](https://t.me/addstickers/NorwegianFun)
 * Playing any kind of guitar
 * Swimming, snowboarding
 * Metal fests, escape rooms, board games, watching football
-* [FB](https://www.facebook.com/MrBlazerer) with annual updates
-* [IG](https://www.instagram.com/blazerer_about_everything/) about everything
 * [Wishlist](wishlist.md)
+* [FB](https://www.facebook.com/MrBlazerer) with annual updates **(in rare use)**
+* [IG](https://www.instagram.com/blazerer_about_everything/) about everything **(in rare use)**
