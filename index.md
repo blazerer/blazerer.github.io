@@ -164,7 +164,7 @@ Here is the marketing demonstration of this tool:
 
 ## 🏆 Achievements 
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
-* [Topcoder](https://www.topcoder.com/members/blazerer/details/) max rating: **1808** (2014)
+* [Topcoder](https://www.topcoder.com/members/blazerer/) max rating: **1808** (2014)
 * ACM ICPC university level contest: **1st** (2010 - 2014)
 * ACM ICPC ukrainian-south contest: **2nd** (2011), **3rd** (2012 - 2014)
 * ACM ICPC SEERC world semifinal: **participant** (2011-2014)
