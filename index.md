@@ -190,11 +190,11 @@ Here is the marketing demonstration of this tool:
 * [TG channel](https://t.me/imposter_and_ocd) for thoughts
 * [Habr](https://habr.com/ru/users/MrBlazerer/posts/) with rare posts
 * [Blog](https://vk.com/blazerer_about_music) about music gigs
-* Development of [tg-bot](https://t.me/MusicPracticeBot) for learning of CAGED-system on guitar
+* Development of [tg bot](https://t.me/MusicPracticeBot) for learning of CAGED-system on guitar
 * Maintaining [tg sticker pack](https://t.me/addstickers/NorwegianFun)
 * Playing any kind of guitar
 * Swimming, snowboarding
-* Metal fests, escape rooms, board games, watching football
-* [Wishlist](wishlist.md)
+* Metal fests, escape rooms, board games, watching football, [travels](country_counter.md)
 * [FB](https://www.facebook.com/MrBlazerer) with annual updates **(in rare use)**
 * [IG](https://www.instagram.com/blazerer_about_everything/) about everything **(in rare use)**
+* [Wishlist](wishlist.md)
