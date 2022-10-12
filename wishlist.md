@@ -28,4 +28,4 @@ If you love me so much 🤯
 
 If you don't have any ideas
 * Please, **no certificates**, I lost so many of them 😔
-* I'll be really happy, if we spent gift's budget on something kind. Like this [initiative](https://help.yandex.ru/taxi#donate) or any other charity program that you like
+* I'll be really happy, if we spend gift's budget on something kind. Like this [initiative](https://help.yandex.ru/taxi#donate) or any other charity program that you like
