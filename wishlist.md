@@ -14,14 +14,10 @@ Art Books
 <br>
 
 Music swag 
-* [iRig Keys I/O 25](https://www.gear4music.com/Keyboards-and-Pianos/iRig-Keys-I-O-25/25HH)
-* [Arc system](https://www.ikmultimedia.com/products/arc3/?pkey=arc-system-3)
 <br>
 
 Etc
-* Coffee machine like [that](https://amzn.eu/d/dVhs1P1)
 * [Bundle](https://store.artlebedev.ru/bundles/pro-coffee/) about coffee 🤪 
-* Toolbox like [this one](https://amzn.eu/d/fHy0zhe)
 * Any vinyl from this [list](https://music.yandex.ru/users/yndx.peshkurov/albums), but clarify please, if I don't have it already 😉
 <br>
 
