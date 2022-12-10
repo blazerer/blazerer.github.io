@@ -3,7 +3,6 @@
 
 Books
 * [Architecture at the Heart of the Home](https://www.amazon.com/Architecture-at-Heart-Home-anglais/dp/1760761486)
-* [Things Come Apart: A Teardown Manual for Modern Living ](https://www.amazon.co.uk/Things-Come-Apart-Teardown-Manual/dp/0500516766)
 * [О языке композиции](https://www.artlebedev.ru/izdal/o-yazyke-kompozitsii/)
 * ...
 <br>
@@ -14,6 +13,7 @@ Art Books
 <br>
 
 Music swag 
+* ...
 <br>
 
 Etc
