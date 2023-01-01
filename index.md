@@ -165,16 +165,17 @@ Here is the marketing demonstration of this tool:
 ## 🏆 Achievements 
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
 * [Topcoder](https://www.topcoder.com/members/blazerer/) max rating: **1808** (2014)
-* ACM ICPC university level contest: **1st** (2010 - 2014)
-* ACM ICPC ukrainian-south contest: **2nd** (2011), **3rd** (2012 - 2014)
-* ACM ICPC SEERC world semifinal: **participant** (2011-2014)
-* Vekua Cup onsite contest: **3rd** (2013)
-* KPI-OPEN contest: **high achievements** (2010 - 2011)
-* Osipovsky Cup contest: **high achievements** (2011 - 2012)
+* ACM ICPC SEERC World Semifinal: **participant** (2011-2014)
+* ACM ICPC Ukraine-South: **2nd** (2011), **3rd** (2012 - 2014)
+* ACM ICPC Uni Level: **1st** (2010 - 2014)
+* Vekua Cup: **3rd** (2013)
+* KPI-OPEN: **high achievements** (2010 - 2011)
+* Osipovsky Cup: **high achievements** (2011 - 2012)
 * Kharkov winter programming school: **participant** (2010 - 2013)
 * Sevastopol summer programming school: **participant** (2010 - 2012)
 * Yandex school of distributional computing: **participant** (2011)
 * Yandex credit scoring contest: **2nd** (2017)
+* Prepared and conducted webinars for [SkillFactory](https://skillfactory.ru/) about MultiThreading as a part of C++ course
 
 <br>
 
@@ -187,14 +188,14 @@ Here is the marketing demonstration of this tool:
 <br>
 
 ## 🎸 Outside Of Work
-* [TG channel](https://t.me/imposter_and_ocd) for thoughts
 * [Habr](https://habr.com/ru/users/MrBlazerer/posts/) with rare posts
+* [TG channel](https://t.me/imposter_and_ocd) for thoughts
 * [Blog](https://vk.com/blazerer_about_music) about music gigs
 * Development of [tg bot](https://t.me/MusicPracticeBot) for learning of CAGED-system on guitar
 * Maintaining [tg sticker pack](https://t.me/addstickers/NorwegianFun)
 * Playing any kind of guitar
-* Swimming, snowboarding
-* Metal fests, escape rooms, board games, watching football, [travels](country_counter.md)
-* [FB](https://www.facebook.com/MrBlazerer) with annual updates **(in rare use)**
-* [IG](https://www.instagram.com/blazerer_about_everything/) about everything **(in rare use)**
+* Swimming, snowboarding, watching football 🔴🟢
+* Metal fests, escape rooms, board games, [travels](country_counter.md)
+* [FB](https://www.facebook.com/MrBlazerer) with annual updates
+* [IG](https://www.instagram.com/blazerer_about_everything/) about everything
 * [Wishlist](wishlist.md)

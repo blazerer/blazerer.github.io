@@ -32,3 +32,4 @@
 * Denmark 🇩🇰 
 * Sweden 🇸🇪 
 * Monaco 🇲🇨
+* Egypt 🇪🇬
