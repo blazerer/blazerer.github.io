@@ -22,10 +22,10 @@ Antifraud investigations, model training and development of server components
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Work in the antifraud field so can't share many details</li>
-  <li>Train models in highly ambiguous area</li>
-  <li>Develop data pipelines and implement business logic there</li>
-  <li>Conduct investigations of anomalies</li>
+  <li>Worked in the antifraud, so can't share many details</li>
+  <li>Trained models in highly ambiguous area</li>
+  <li>Developed data pipelines and implemented business logic around them</li>
+  <li>Conducted investigations of anomalies</li>
   <li>Tools: Python, Internal ML libraries, Hive/Spark, MySQL, HG, Internal tools</li>
  </ul>
 </details>
