@@ -65,7 +65,7 @@ Training translation models and development of data pipelines
  <summary>Details</summary>
  <ul>
   <li>Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage</li>
-  <li>Improved translation quality on Turkish language family via training new types of neural models, <b>waiting for patent</b></li>
+  <li>Improved translation quality on Turkish language family via training new types of neural models, <b>waiting for <a href="https://patents.google.com/patent/US20220198159A1/">patent</a></b></li>
   <li>Implemented Alternatives-For-Translation backend based on neural language model API</li>
   <li>Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Transformer RNNs, HG</li>
  </ul>
