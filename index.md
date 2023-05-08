@@ -22,10 +22,10 @@ Antifraud investigations, training of models and development of server component
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Worked in the antifraud, so can't share many details</li>
-  <li>Trained models in highly ambiguous area</li>
+  <li>Worked in the antifraud field, so can't share many details</li>
+  <li>Trained models in ambiguous area</li>
   <li>Developed data pipelines and implemented business logic around them</li>
-  <li>Conducted investigations of anomalies</li>
+  <li>Conducted anomalies investigations </li>
   <li>Tools: Python, Internal ML libraries, Hive/Spark, MySQL, HG, Internal tools</li>
  </ul>
 </details>
@@ -36,9 +36,9 @@ Management of the team responsible for the server-side components of the navigat
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Designed and developed server-side applications for the integrations of our app with partners (eg. Remote-Access-To-Car)</li>
-  <li>Implemented service’s dashboards and metrics calculation processes</li>
-  <li>Managed development of push-service for our proprietary devices</li>
+  <li>Designed and developed server-side applications for the integrations of our service with partners (eg. Remote-Access-To-Car)</li>
+  <li>Introduced dashboards and metrics recalculation processes</li>
+  <li>Leaded development of push-service for proprietary devices</li>
   <li>Developed Logs-On-Demand system for our devices</li>
   <li>Participated in interviewing, onboarding, mentorship, project management routines of the team</li>
   <li>Tools: C++14, PostgreSQL, PlantUML, Java, Yandex-tools</li>
@@ -46,9 +46,9 @@ Management of the team responsible for the server-side components of the navigat
  <i>
  <br>
  <b>Remote-Access-To-Car Demonstration</b><br>
- We integrated our navigation app with the telematics system, so that allowed our customers to have access to car's features (ignition, locks, etc.) via our app.
- Was responsible for the design and development of server components and managed a team, which was working on these tasks.<br>
- Here you can see <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about presentation from the conference with a part about our project:
+ We integrated our navigation app with the telematics system, so that allowed our customers to have access to car's features (ignition, locks, etc.) via app.
+ Was responsible for the design and development of server components via management of the team of 4 developers.<br>
+ Here you can see <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">post</a> about presentation from the conference with a part about our project:
 </i>
  <br>
  <br>
@@ -64,7 +64,7 @@ Training translation models and development of data pipelines
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage</li>
+  <li>Designed and developed end-to-end data aggregation pipeline: from application on device to table into the MR-storage</li>
   <li>Improved translation quality on Turkish language family via training new types of neural models, <b>waiting for <a href="https://patents.google.com/patent/US20220198159A1/">patent</a></b></li>
   <li>Implemented Alternatives-For-Translation backend based on neural language model API</li>
   <li>Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Transformer RNNs, HG</li>
@@ -96,11 +96,11 @@ Training translation models and development of data pipelines
 <br>
 
 **SDE** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
-Server-side development of real time analytical service for mobile applications
+Server-side development of real-time analytical service for mobile applications
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a set of microservices in cloud</li>
+  <li>Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a set of microservices</li>
   <li>Maintained and optimised self-written backend servers' layer (140·10^3 RPS of HTTPS in peak)</li>
   <li>Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions</li>
   <li>Performed investigations on petabytes of data via MR and ClickHouse SQL</li>
@@ -125,8 +125,8 @@ Development of the solutions for the CAD/CAM software
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Was solving sculpture surface machining and computational geometry problems</li>
-  <li>Implemented library for the toolpath smoothing and based my master's thesis on it</li>
+  <li>Solving sculpture surface machining and computational geometry problems</li>
+  <li>Implemented library for the toolpath smoothing - based my master's thesis on it</li>
   <li>Developed and maintained project of Multiaxis Roughing (see below)</li>
   <li>Tools: C++03, Boost, Computational geometry tools, Svn</li>
  </ul>
@@ -175,7 +175,7 @@ Here is the marketing demonstration of this tool:
 * Sevastopol summer programming school: **participant** (2010 - 2012)
 * Yandex school of distributional computing: **participant** (2011)
 * Yandex credit scoring contest: **2nd** (2017)
-* Prepared and conducted webinars for [SkillFactory](https://skillfactory.ru/) about MultiThreading as a part of C++ course
+* Prepared and conducted webinars for [SkillFactory](https://skillfactory.ru/) on MultiThreading as a part of C++ course
 
 <br>
 
