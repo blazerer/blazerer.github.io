@@ -8,11 +8,15 @@ _Software engineer based in London, United Kingdom_ <br>
 
 ## 💾 Technical Experience
 **SDE** @ [Wintermute Trading Ltd](https://www.wintermute.com/) _(May 2022 - ...)_ <br>
-Development of server components in HFT company
+Development of server components at HFT company
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Yet to come</li>
+  <li>Development of pricing- and accounting- components for traders' and quants' requests</li>
+  <li>Created trades data logger for some exchange integrations</li>
+  <li>Migrated almost every microservice in company into the new proprietary configuration service</li>
+  <li>Participated in regular on call shifts, conducted analysis of anomalies on demand and took part in interviews</li>
+  <li>Tools: C++, Python, PostgreSQL, Internal tools</li>
  </ul>
 </details>
 <br>
@@ -25,7 +29,8 @@ Antifraud investigations, training of models and development of server component
   <li>Worked in the antifraud field, so can't share many details</li>
   <li>Trained models in ambiguous area</li>
   <li>Developed data pipelines and implemented business logic around them</li>
-  <li>Conducted anomalies investigations </li>
+  <li>Performed anomalies investigations </li>
+  <li>Managed bootcampers and interns, conducted interviews </li>
   <li>Tools: Python, Internal ML libraries, Hive/Spark, MySQL, HG, Internal tools</li>
  </ul>
 </details>
