@@ -2,8 +2,7 @@
 ## 🌞 Wishlist
 
 Books
-* [Architecture at the Heart of the Home](https://www.amazon.com/Architecture-at-Heart-Home-anglais/dp/1760761486)
-* [О языке композиции](https://www.artlebedev.ru/izdal/o-yazyke-kompozitsii/)
+* [Architecture at the Heart of the Home](https://www.amazon.com/Architecture-at-Heart-Home-anglais/dp/1760761486)s
 * ...
 <br>
 
