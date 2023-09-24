@@ -3,7 +3,7 @@
 
 Books
 * [Architecture at the Heart of the Home](https://www.amazon.com/Architecture-at-Heart-Home-anglais/dp/1760761486)s
-* ...
+* Zorich's Calculus :) I'm not joking
 <br>
 
 Art Books
@@ -21,9 +21,8 @@ Etc
 <br>
 
 If you love me so much 🤯
-* [Jackson X Series Soloist SLA6 DX Baritone](https://www.gear4music.com/Guitar-and-Bass/Jackson-X-Series-Soloist-SLA6-DX-Baritone-Satin-Black/4N82?_gl=1*1e4ea6j*_ga*MjAzMjE1NzA1Ny4xNjYzMDIzMzMw*_up*MQ..)
-* [Schecter C-1 EX Apocalypse](https://www.gear4music.com/Guitar-and-Bass/Schecter-C-1-EX-Apocalypse-Rusty-Grey/2QSJ?_gl=1*1e4ea6j*_ga*MjAzMjE1NzA1Ny4xNjYzMDIzMzMw*_up*MQ..)
-* [ESP LTD MH-1000 Baritone](https://www.gear4music.com/Guitar-and-Bass/ESP-LTD-MH-1000-Baritone-Black-Satin/4MLQ?_gl=1*1e4ea6j*_ga*MjAzMjE1NzA1Ny4xNjYzMDIzMzMw*_up*MQ..)
+* I thought about baritone guitar for quite long ... so [Jackson X Series Soloist SLA6 DX Baritone](https://www.gear4music.com/Guitar-and-Bass/Jackson-X-Series-Soloist-SLA6-DX-Baritone-Satin-Black/4N82?_gl=1*1e4ea6j*_ga*MjAzMjE1NzA1Ny4xNjYzMDIzMzMw*_up*MQ..)
+
 <br>
 
 If you don't have any ideas
