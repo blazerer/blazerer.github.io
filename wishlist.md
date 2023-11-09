@@ -3,12 +3,22 @@
 
 Books
 * [Architecture at the Heart of the Home](https://www.amazon.com/Architecture-at-Heart-Home-anglais/dp/1760761486)s
-* Zorich's Calculus :) I'm not joking
+* [Art and Geopolitics](https://store.artlebedev.ru/books/sovremennoye-iskusstvo-i-geopolitika/)
+* [Passive agression translator](https://store.artlebedev.ru/books/perevodchik-s-passivno-agressivnogo/)
+* Rewire your brain / The Willpower Instinct / Atomic Habits as I want to have them in paper
+* Any book from Taleb
+* Zorich's Calculus 
+* Shiryav's Probability
+* Kostrikin's Algebra
+* Arnold's Differential Equations
+* Nesterenko's Number Theory
+* Postnikov's Geometry (first 5 volumes 🌚)
 <br>
 
 Art Books
 * THE STAR WARS ARCHIVES: 1977–1983 (or 1999-2005)
 * The Making of Star Wars: The Definitive Story Behind the Original Film
+* [Book about Moscow's Underground](https://store.artlebedev.ru/books/zhestkov-metro/)
 <br>
 
 Music swag 
