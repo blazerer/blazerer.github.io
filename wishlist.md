@@ -16,7 +16,7 @@ Books
 <br>
 
 Art Books
-* THE STAR WARS ARCHIVES: 1977–1983 (or 1999-2005)
+* THE STAR WARS ARCHIVES: 1977–1983
 * The Making of Star Wars: The Definitive Story Behind the Original Film
 * [Book about Moscow's Underground](https://store.artlebedev.ru/books/zhestkov-metro/)
 <br>
