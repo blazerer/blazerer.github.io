@@ -195,8 +195,7 @@ Here is the marketing demonstration of this tool:
 ## 🎸 Outside Of Work
 * [Habr](https://habr.com/ru/users/MrBlazerer/posts/) with rare posts
 * [TG channel](https://t.me/imposter_and_ocd) for thoughts
-* [Blog](https://vk.com/blazerer_about_music) about music gigs
-* Development of [tg bot](https://t.me/MusicPracticeBot) for learning of CAGED-system on guitar
+* [Blog](https://vk.com/blazerer_about_music) about music gigsz
 * Maintaining [tg sticker pack](https://t.me/addstickers/NorwegianFun)
 * Playing any kind of guitar
 * Swimming, snowboarding, watching football 🔴🟢
