@@ -5,7 +5,7 @@
 * Switzerland 🇨🇭
 * Czech Republic 🇨🇿 
 * Germany 🇩🇪 
-* UK 🇬🇧 
+* England 🇬🇧 
 * Austria 🇦🇹 
 * Hungary 🇭🇺 
 * Slovakia 🇸🇰 
@@ -29,7 +29,15 @@
 * Malaysia 🇲🇾 
 * Armenia 🇦🇲 
 * Greece 🇬🇷 
+* Wales
 * Denmark 🇩🇰 
 * Sweden 🇸🇪 
 * Monaco 🇲🇨
 * Egypt 🇪🇬
+* Andorra 🇦🇩
+* San Marino 🇸🇲
+* Scotland 
+* Croatia 🇭🇷
+* Bosnia 🇧🇦
+
+[And Map of This](https://share.skratch.world/1o5zxKZkxa/visited)
