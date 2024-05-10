@@ -5,7 +5,7 @@ Books
 * [Architecture at the Heart of the Home](https://www.amazon.com/Architecture-at-Heart-Home-anglais/dp/1760761486)s
 * [Art and Geopolitics](https://store.artlebedev.ru/books/sovremennoye-iskusstvo-i-geopolitika/)
 * [Passive agression translator](https://store.artlebedev.ru/books/perevodchik-s-passivno-agressivnogo/)
-* Rewire your brain / The Willpower Instinct / Atomic Habits as I want to have them in paper
+* Rewire your brain / The Willpower Instinct / Atomic Habits / Kahneman as I want to have them in paper
 * Any book from Taleb
 * Zorich's Calculus 
 * Shiryav's Probability
@@ -26,12 +26,13 @@ Music swag
 <br>
 
 Etc
-* [Bundle](https://store.artlebedev.ru/bundles/pro-coffee/) about coffee 🤪 
+* [Bundle](https://store.artlebedev.ru/bundles/pro-coffee/) about coffee 🤪
+* [Other barista staff](https://www.amazon.co.uk/stores/NOTSEK/NOTSEK/page/A31E601A-D24C-40CB-8200-376ABC057D56?ref_=cm_sw_r_cp_ud_ast_store_4QQ71BGJH4TZH0XK22T8) 
 * Any vinyl from this [list](https://music.yandex.ru/users/yndx.peshkurov/albums), but clarify please, if I don't have it already 😉
 <br>
 
 If you love me so much 🤯
-* I thought about baritone guitar for quite long ... so [Jackson X Series Soloist SLA6 DX Baritone](https://www.gear4music.com/Guitar-and-Bass/Jackson-X-Series-Soloist-SLA6-DX-Baritone-Satin-Black/4N82?_gl=1*1e4ea6j*_ga*MjAzMjE1NzA1Ny4xNjYzMDIzMzMw*_up*MQ..)
+* Any [launchbox guitar amp](https://www.andertons.co.uk/what-is-a-lunchbox-amp)
 
 <br>
 
