@@ -22,13 +22,14 @@ Art Books
 <br>
 
 Music swag 
-* ...
+* [Few plugins](https://www.ikmultimedia.com/products/index.php?R=INIT&A=modobass2-mododrum15-bundle&pkey=modobass2-mododrum15-bundle) for recording
 <br>
 
 Etc
 * [Bundle](https://store.artlebedev.ru/bundles/pro-coffee/) about coffee 🤪
 * [Other barista staff](https://www.amazon.co.uk/stores/NOTSEK/NOTSEK/page/A31E601A-D24C-40CB-8200-376ABC057D56?ref_=cm_sw_r_cp_ud_ast_store_4QQ71BGJH4TZH0XK22T8) 
 * Any vinyl from this [list](https://music.yandex.ru/users/yndx.peshkurov/albums), but clarify please, if I don't have it already 😉
+* [Shaver](https://amzn.eu/d/hQBlZ3W) with maintenance station
 <br>
 
 If you love me so much 🤯
