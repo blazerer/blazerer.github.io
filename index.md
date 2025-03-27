@@ -12,9 +12,9 @@ Development of server components at HFT company
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Development of pricing- and accounting- components in collaboration with traders and quants </li>
-  <li>Created market data loggers for various exchange integrations</li>
-  <li>Migrated almost every microservice in company into the new proprietary configuration service</li>
+  <li>Development of pricing- and accounting- components, which are used for every crypto exchange </li>
+  <li>Predictive models implementation, optimisation and delivery to production. Tangibly affected P&L</li>
+  <li>Market data integrations with several crypto exchanges</li>
   <li>Participated in regular on call shifts, conducted analysis of anomalies and took part in the interviewing process</li>
   <li>Tools: C++, Python, PostgreSQL, Internal tools</li>
  </ul>
