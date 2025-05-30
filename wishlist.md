@@ -27,7 +27,7 @@ Music swag
 Etc
 * [Bundle](https://store.artlebedev.ru/bundles/pro-coffee/) about coffee 🤪
 * [Other barista staff](https://www.amazon.co.uk/stores/NOTSEK/NOTSEK/page/A31E601A-D24C-40CB-8200-376ABC057D56?ref_=cm_sw_r_cp_ud_ast_store_4QQ71BGJH4TZH0XK22T8) 
-* [And a bit more about coffee...] (https://store.artlebedev.ru/books/posobiye-baristy-2024/)
+* [And a bit more about coffee...](https://store.artlebedev.ru/books/posobiye-baristy-2024/)
 * Any vinyl from this [list](https://music.yandex.ru/users/yndx.peshkurov/albums), but clarify please, if I don't have it already 😉
 <br>
 
