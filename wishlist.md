@@ -22,6 +22,7 @@ Art Books
 Simulations stuff
 * [Rudder pedals](https://www.thrustmaster.com/en-ie/products/t-flight-rudder-pedals/) for my setup
 * [Wheel and pedals and gearstick](https://www.logitechg.com/en-eu/products/driving/driving-force-racing-wheel.941-000112.html)
+<br>
 
 Music swag 
 * Please, stand by ...

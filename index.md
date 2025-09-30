@@ -7,7 +7,7 @@ _Software engineer based in London, United Kingdom_ <br>
 <br>
 
 ## 💾 Technical Experience
-**SDE** @ [Wintermute Trading Ltd](https://www.wintermute.com/) _(May 2022 - ...)_ <br>
+**SDE** @ [Wintermute Trading Ltd](https://www.wintermute.com/) _(May 2022 - June 2025)_ <br>
 Development of server components at HFT company
 <details align="justify">
  <summary>Details</summary>
