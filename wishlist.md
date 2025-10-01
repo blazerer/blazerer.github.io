@@ -20,8 +20,8 @@ Art Books
 <br>
 
 Simulations stuff
-* [msfs](https://store.playstation.com/en-us/product/UP6312-PPSA23943_00-FLIGHTSIM2024STA) which is going to be released on PS5
 * [Rudder pedals](https://www.thrustmaster.com/en-ie/products/t-flight-rudder-pedals/) for my setup
+* [msfs](https://store.playstation.com/en-us/product/UP6312-PPSA23943_00-FLIGHTSIM2024STA) which is going to be released on PS5 soon
 * [Wheel and pedals and gearstick](https://www.logitechg.com/en-eu/products/driving/driving-force-racing-wheel.941-000112.html)
 <br>
 
