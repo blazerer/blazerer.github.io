@@ -30,6 +30,7 @@ Music swag
 <br>
 
 Etc
+* Dotted hard-covered moleskines always work [1](https://www.moleskine.com/en-gb/shop/notebooks/the-legendary-notebook/classic-notebook-expanded-black-8058647628011.html), [2](https://www.moleskine.com/en-gb/shop/notebooks/the-legendary-notebook/classic-notebook-sapphire-blue-8051272893601.html)
 * [Nice book](https://store.artlebedev.ru/books/posobiye-baristy-2024/) about coffee 🤪
 * [Other barista staff](https://www.amazon.co.uk/stores/NOTSEK/NOTSEK/page/A31E601A-D24C-40CB-8200-376ABC057D56?ref_=cm_sw_r_cp_ud_ast_store_4QQ71BGJH4TZH0XK22T8) 
 * Any vinyl from this [list](https://music.yandex.ru/users/yndx.peshkurov/albums), but clarify please, if I don't have it already 😉
