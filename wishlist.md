@@ -2,7 +2,6 @@
 ## 🌞 Wishlist
 
 Books
-* [Architecture at the Heart of the Home](https://www.amazon.com/Architecture-at-Heart-Home-anglais/dp/1760761486)s
 * [Art and Geopolitics](https://store.artlebedev.ru/books/sovremennoye-iskusstvo-i-geopolitika/)
 * [Passive agression translator](https://store.artlebedev.ru/books/perevodchik-s-passivno-agressivnogo/)
 * Rewire your brain / Atomic Habits / Kahneman as I want to have them in paper
@@ -17,12 +16,6 @@ Art Books
 * THE STAR WARS ARCHIVES: 1977–1983
 * The Making of Star Wars: The Definitive Story Behind the Original Film
 * [Book about Moscow's Underground](https://store.artlebedev.ru/books/zhestkov-metro/)
-<br>
-
-Simulations stuff
-* [Rudder pedals](https://www.thrustmaster.com/en-ie/products/t-flight-rudder-pedals/) for my setup
-* [msfs](https://store.playstation.com/en-us/product/UP6312-PPSA23943_00-FLIGHTSIM2024STA) which is going to be released on PS5 soon
-* [Wheel and pedals and gearstick](https://www.logitechg.com/en-eu/products/driving/driving-force-racing-wheel.941-000112.html)
 <br>
 
 Music swag 
