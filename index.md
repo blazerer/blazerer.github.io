@@ -21,7 +21,7 @@ Development of server components at HFT company
 </details>
 <br>
 
-**SDE** @ One of FAANG _(Dec 2020 - Apr 2022)_ <br>
+**SDE** @ Facebook _(Dec 2020 - Apr 2022)_ <br>
 Antifraud investigations, training of models and development of server components
 <details align="justify">
  <summary>Details</summary>
