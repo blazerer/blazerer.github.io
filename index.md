@@ -1,51 +1,64 @@
 # Roman Peshkurov
 
 _Software engineer based in London, United Kingdom_ <br>
+Available to work in the UK, Russia
 
 [Telegram](https://t.me/blazerer) / [Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer) / [PDF](RomanPeshkurov.pdf) 
 
 <br>
 
 ## 💾 Technical Experience
-**SDE** @ [Wintermute Trading Ltd](https://www.wintermute.com/) _(May 2022 - June 2025)_ <br>
-Development of server components at HFT company
+**QuantDev** @ Prop Trading Crypto Company _(Jan 2026 - ..)_ <br>
+Developing low-latency components for the core trading platform
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Development of pricing- and accounting- components, which are used for every crypto exchange </li>
-  <li>Predictive models implementation, optimisation and delivery to production. Tangibly affected P&L</li>
-  <li>Market data integrations with several crypto exchanges</li>
-  <li>Participated in regular on call shifts, conducted analysis of anomalies and took part in the interviewing process</li>
+  <li>Focusing on strategy logic improvements and integrating predictive models with research team </li>
+  <li>Tools: C++, Python, Clickhouse, Internal tools</li>
+ </ul>
+</details>
+<br>
+
+**QuantDev** @ [Wintermute Trading Ltd](https://www.wintermute.com/) _(May 2022 - June 2025)_ <br>
+Developed critical components for an HFT trading platform
+<details align="justify">
+ <summary>Details</summary>
+ <ul>
+  <li>Developed pricing and accounting engines, directly impacting P&L through close collaboration with researchers </li>
+  <li>Implemented, optimized, and deployed predictive models into production </li>
+  <li>Market data integrations with several crypto exchanges </li>
+  <li>Architected and built a backtesting framework for pricing components to streamline predeployment validation </li>
+  <li>Participated in regular oncall shifts, conducted analysis of anomalies and took part in the interviewing process </li>
   <li>Tools: C++, Python, PostgreSQL, Internal tools</li>
  </ul>
 </details>
 <br>
 
 **SDE** @ Facebook _(Dec 2020 - Apr 2022)_ <br>
-Antifraud investigations, training of models and development of server components
+Focused on anti-fraud investigations and ML research
 <details align="justify">
  <summary>Details</summary>
  <ul>
   <li>Worked in the antifraud field, so can't share many details</li>
-  <li>Trained models in ambiguous area</li>
-  <li>Developed data pipelines and implemented business logic around them</li>
-  <li>Performed anomalies investigations </li>
-  <li>Managed bootcampers and interns, conducted interviews </li>
+  <li>Trained and deployed machine learning models in the highly complex and ambiguous domain of fraud detection, achieving a monthly financial impact of $3M </li>
+  <li>Developed scalable data pipelines and integrated them with internal decision-making systems </li>
+  <li>Conducted deep-dive anomaly investigations to identify and mitigate adversarial traffic </li>
+  <li>Managed and mentored bootcampers and interns, guiding them through onboarding and project delivery </li>
   <li>Tools: Python, Internal ML libraries, Hive/Spark, MySQL, HG, Internal tools</li>
  </ul>
 </details>
 <br>
 
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
-Management of the team responsible for the server-side components of the navigation service
+Led the server-side team for Yandex's navigation service
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Designed and developed server-side applications for the integrations of our service with partners (eg. Remote-Access-To-Car)</li>
+  <li>Designed and developed systems for third-party partner integrations (eg. Remote-Access-To-Car)</li>
   <li>Introduced dashboards and metrics recalculation processes</li>
-  <li>Leaded development of push-service for proprietary devices</li>
+  <li>Led the development of backend services for proprietary in-car devices.</li>
   <li>Developed Logs-On-Demand system for our devices</li>
-  <li>Participated in interviewing, onboarding, mentorship, project management routines of the team</li>
+  <li>Responsible for team routines: interviewing, onboarding, mentorship, and project management</li>
   <li>Tools: C++14, PostgreSQL, PlantUML, Java, Yandex-tools</li>
 </ul>
  <i>
@@ -65,12 +78,12 @@ Management of the team responsible for the server-side components of the navigat
 <br>
 
 **Senior SDE** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
-Training translation models and development of data pipelines
+Developed data pipelines and trained translation models
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Designed and developed end-to-end data aggregation pipeline: from application on device to table into the MR-storage</li>
-  <li>Improved translation quality on Turkish language family via training new types of neural models, <b>waiting for <a href="https://patents.google.com/patent/US20220198159A1/">patent</a></b></li>
+  <li>Built a data aggregation pipeline processing data from mobile apps to MapReduce storage</li>
+  <li>Improved translation quality on Turkish language family via training new types of neural models (original transformers), <b><a href="https://patents.google.com/patent/US20220198159A1/">US PATENT US20220198159A1</a></b></li>
   <li>Implemented Alternatives-For-Translation backend based on neural language model API</li>
   <li>Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Transformer RNNs, HG</li>
  </ul>
@@ -101,14 +114,14 @@ Training translation models and development of data pipelines
 <br>
 
 **SDE** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
-Server-side development of real-time analytical service for mobile applications
+Developed a real-time analytical service handling massive scale
 <details align="justify">
  <summary>Details</summary>
  <ul>
   <li>Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a set of microservices</li>
   <li>Maintained and optimised self-written backend servers' layer (140·10^3 RPS of HTTPS in peak)</li>
-  <li>Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions</li>
-  <li>Performed investigations on petabytes of data via MR and ClickHouse SQL</li>
+  <li>Developed various utilities: internal/external APIs, MR-jobs, monitorings and testing solutions</li>
+  <li>Performed complex data investigations on petabytes of data using MapReduce and ClickHouse SQL</li>
   <li>Tools: C++14, Boost, Poco, MySQL, <a href="https://clickhouse.tech/">ClickHouse</a> (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git</li>
  </ul>
  <i>
@@ -126,11 +139,11 @@ Server-side development of real-time analytical service for mobile applications
 <br>
 
 **SDE** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
-Development of the solutions for the CAD/CAM software
+Developed solutions for CAD/CAM software, specializing in computational geometry
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Solving sculpture surface machining and computational geometry problems</li>
+  <li>Solved problems related to sculpture surface machining and computational geometry problems</li>
   <li>Implemented library for the toolpath smoothing - based my master's thesis on it</li>
   <li>Developed and maintained project of Multiaxis Roughing (see below)</li>
   <li>Tools: C++03, Boost, Computational geometry tools, Svn</li>
@@ -139,8 +152,8 @@ Development of the solutions for the CAD/CAM software
 <br>
 <b>Multiaxis Roughing Demonstration</b><br>
 This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
-My aim was to make an actual implementation of an already scoped project and pushing it to the production.<br>
-Here is the marketing demonstration of this tool:
+Aim was to make an actual implementation of an already scoped project and pushing it to the production.<br>
+Here is the promotional demonstration of this tool:
  </i>
  <br>
  <br>
