@@ -208,7 +208,7 @@ Here is the promotional demonstration of this tool:
 ## 🎸 Outside Of Work
 * [Habr](https://habr.com/ru/users/MrBlazerer/posts/) with rare posts
 * [TG channel](https://t.me/imposter_and_ocd) for thoughts
-* [Blog](https://vk.com/blazerer_about_music) about music gigsz
+* [Blog](https://vk.com/blazerer_about_music) about music gigs
 * Maintaining [tg sticker pack](https://t.me/addstickers/NorwegianFun)
 * Playing any kind of guitar
 * Swimming, snowboarding, watching football 🔴🟢
