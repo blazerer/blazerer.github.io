@@ -2,14 +2,9 @@
 ## 🌞 Wishlist
 
 Books
-* [Art and Geopolitics](https://store.artlebedev.ru/books/sovremennoye-iskusstvo-i-geopolitika/)
-* [Passive agression translator](https://store.artlebedev.ru/books/perevodchik-s-passivno-agressivnogo/)
 * Rewire your brain / Atomic Habits / Kahneman as I want to have them in paper
-* Any book from Taleb
 * Zorich's Calculus I volume
-* Shiryav's Probability
 * Kostrikin's Algebra I volume
-* Nesterenko's Number Theory
 <br>
 
 Art Books
