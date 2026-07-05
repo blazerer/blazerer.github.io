@@ -8,12 +8,13 @@ Available to work in the UK, Russia
 <br>
 
 ## 💾 Technical Experience
-**QuantDev** @ Prop Trading Crypto Company _(Jan 2026 - ..)_ <br>
+**QuantDev** @ Dubai Prop Trading Crypto Company _(Jan 2026 - Apr 2026)_ <br>
 Developing low-latency components for the core trading platform
 <details align="justify">
  <summary>Details</summary>
  <ul>
   <li>Focusing on strategy logic improvements and integrating predictive models with research team </li>
+  <li>Left company after two months as a result of Spring 26 Middle East Crisis </li>
   <li>Tools: C++, Python, Clickhouse, Internal tools</li>
  </ul>
 </details>
